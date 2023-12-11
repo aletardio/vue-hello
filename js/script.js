@@ -4,7 +4,7 @@ createApp ({
     data() {
         return {
             message: 'Hello Vue!',
-            mainImg: 'https://wallpapers-clan.com/desktop-wallpapers/miles-morales-city-landscape/'
+            imgName: 'https://wallpapers-clan.com/wp-content/uploads/2023/12/miles-morales-city-landscape-desktop-wallpaper-preview.jpg'
         }
     }
-}).mount('#message')
+}).mount('#app')
